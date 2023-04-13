@@ -19,10 +19,13 @@
 ![image](https://github.com/Cod1ngR1der/ActivityLifeCycle_205801/blob/master/app/src/main/res/drawable/github4.gif)
 
 
-## 文件结构
+## 后续版本优化（饼）
+改进校园卡识别效果：
 
+①采用云测识别，云侧识别与端侧识别相比，准确率较高
 
-## 注意事项
+②提高两个组件的耦合效果
 
+引入NFC模块
 
-## 使用方法
+在未来引入NFC读取与模拟功能（HCE），增强平台的实用性
