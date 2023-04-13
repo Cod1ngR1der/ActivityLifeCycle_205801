@@ -12,7 +12,7 @@
 
 在首页显示用户的所有卡片，供用户进行选择
 
-![image](https://github.com/Cod1ngR1der/ActivityLifeCycle_205801/blob/master/app/src/main/res/drawable/github2.gif)
+![image](https://github.com/Cod1ngR1der/ActivityLifeCycle_205801/blob/master/app/src/main/res/drawable/github5.gif)
 
 点击卡片能够显示详细的卡片信息以及卡片图片等功能
 
