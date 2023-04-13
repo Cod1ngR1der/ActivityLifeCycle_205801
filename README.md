@@ -16,7 +16,7 @@
 
 点击卡片能够显示详细的卡片信息以及卡片图片等功能
 
-![image]()
+![image](https://github.com/Cod1ngR1der/ActivityLifeCycle_205801/blob/master/app/src/main/res/drawable/github4.gif)
 
 
 ## 文件结构
