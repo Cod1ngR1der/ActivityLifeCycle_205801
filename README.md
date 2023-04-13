@@ -8,7 +8,7 @@
 
 通过调用摄像头来自动识别卡片信息，避免手动输入的易错、繁琐等缺点
 
-![image]()
+![image](https://github.com/Cod1ngR1der/ActivityLifeCycle_205801/blob/master/app/src/main/res/drawable/github3.gif)
 
 在首页显示用户的所有卡片，供用户进行选择
 
